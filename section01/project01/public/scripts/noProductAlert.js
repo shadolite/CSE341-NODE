@@ -1,0 +1,1 @@
+window.alert('No products available to remove!');
